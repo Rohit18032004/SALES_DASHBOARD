@@ -36,4 +36,4 @@ Feature Highlights:
 ---
 
 Screenshot/Demos:
-   Show what the dashboard looks like. - ![Alt text]()
+   Show what the dashboard looks like. - ![Alt text](https://github.com/Rohit18032004/SALES_DASHBOARD/blob/main/Screenshot%202025-08-03%20223408.png)
